@@ -3,3 +3,6 @@ git status
 git add .
 git commit -m "..."
 git push origin main
+
+
+D/z: создать репозиторий. создать Python app, где будут переменные разного типа(int, bool, float, str) данных и выводить их тип.
